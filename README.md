@@ -59,3 +59,6 @@
     - **과거의 데이터가 가지는 추세(momentum, 관성)까지 반영**
         - 차분
     - 선형관계, 추세관계를 모두 고려한 모델
+ 
+![image](https://github.com/user-attachments/assets/0c648d07-46d8-4c0b-94b8-deda1bf1d301)
+
