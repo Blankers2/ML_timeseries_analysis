@@ -1,5 +1,3 @@
-# ML_timeseries_analysis
-
 # 개요
 
 - Time Series Analysis
